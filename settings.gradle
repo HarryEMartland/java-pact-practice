@@ -1,0 +1,3 @@
+rootProject.name = 'pact-practice'
+include 'pact-producer'
+include 'pact-consumer'
